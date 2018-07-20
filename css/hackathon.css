@@ -1,0 +1,121 @@
+body{
+    background-size: 100%;
+        width: 100vw; 
+        position:relative;
+        background-image: url("https://i.pinimg.com/originals/1b/9c/5e/1b9c5edf895e27b842ce49c73d48a385.gif");
+        background-color:silver;
+        font-family:verdana, sans-serif;      
+}
+#hackathon{
+    color: red;
+    font-size: 60px ;
+}
+#aa{
+    font-size: 30px;
+}
+#bb{
+    font-size: 40px ;
+}
+#aaa{
+    color: red;
+    font-size: 40px ;
+}
+#email
+    {
+        color: red;
+        font-size: 30px ;
+    }
+#phone{
+    color: red;
+    font-size: 30px ;
+}
+#lastname{
+    color: red;
+    font-size: 30px ;
+}
+#countryy{
+    color: red;
+    font-size: 30px ;
+}
+#subject{
+    color: red;
+    font-size: 30px ;
+}
+#submit{
+    font-size: 20px ; 
+}
+#CC{
+   
+    font-size: 30px ;
+    border-top-width: 17px;
+    padding-right: 100px;
+
+}
+/* facebook button class*/
+.facebookBtn{
+    background: #4060A5;
+    font-size: 80px;
+}
+
+.facebookBtn:before{ /* use :before to add the relevant icons */
+    font-family: "FontAwesome";
+    content: "\f09a"; /* add facebook icon */
+}
+
+.facebookBtn:hover{
+    color: #4060A5;
+    background: #fff;
+    border-color: #4060A5; /* change the border color on mouse hover */
+}
+
+/* twitter button class*/
+.twitterBtn{
+    background: #00ABE3;
+    font-size: 80px;
+}
+
+.twitterBtn:before{
+      font-family: "FontAwesome";
+      content: "\f099"; /* add twitter icon */
+      
+}
+
+.twitterBtn:hover{
+      color: #00ABE3;
+      background: #fff;
+      border-color: #00ABE3;
+}
+
+.pinterestBtn{
+    background: #cb2027;
+    font-size: 80px;
+}
+
+.pinterestBtn:before{
+      font-family: "FontAwesome";
+      content: "\f0d2"; /* add pinterest icon */
+}
+
+.pinterestBtn:hover{
+      color: #cb2027;
+      background: #fff;
+      border-color: #cb2027;
+}
+.googleplusBtn{
+    font-size: 80px;
+    background: #e64522;
+}
+
+.googleplusBtn:before{
+      font-family: "FontAwesome";
+      content: "\f0d5"; /* add googleplus icon */
+}
+
+.googleplusBtn:hover{
+      color: #e64522;
+      background: #fff;
+      border-color: #e64522;
+}
+#mo{
+    color: red;
+}

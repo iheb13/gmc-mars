@@ -1,0 +1,209 @@
+
+body{
+    background-size: 100%;
+        width: 100vw; 
+        position:relative;
+        background-image: url("https://steamusercontent-a.akamaihd.net/ugc/112986663336964207/5A5AD3B7B9E614F0D739A43DEAC0DE147215E5B4/");
+        background-color:silver;
+        font-family:verdana, sans-serif;
+  
+        
+}
+#nav{
+    position: fixed;
+    background-color: #cb2027;
+    z-index: 1;
+    height:70px;
+    width: 98%;
+    margin-bottom: 10px
+}
+#aa{
+    width: 40px;
+    box-sizing: border-box;
+
+}
+h2
+{
+    color: beige
+}
+#itachi-text{
+    border-left-color: blue;
+    color: antiquewhite;
+    margin-left: 150px;
+
+}
+#itachi{
+    margin-left:150px;
+}
+#kakashi-text{
+    margin-left: 100px;
+    color: antiquewhite;
+}
+#kakashi{
+    margin-left: 100px;
+}
+#sasuke-text{
+    color: antiquewhite;
+    margin-left:20px;
+}
+#sasuke{
+    width: 46%;
+    margin-left:20px;
+}
+#UI{
+    margin-left:150px; 
+    color: antiquewhite;
+}
+#HK{
+    margin-left: 100px;   
+    color: antiquewhite;
+}
+#SU{   
+    color: antiquewhite;
+    margin-left:20px;
+}
+#hj{
+    color: azure;
+    margin-left: 186px;
+}
+#hh{
+    width: 150%;
+}
+#design{
+    margin-left: 96px;
+}
+#hd{
+    width: 150%;
+}
+#Characters{
+    margin-left: 0px;
+}
+#he{transition: transform 0.6s ease;
+    margin-right: -100px;
+    opacity: 0;
+    color: azure;
+}
+#hf{transition: transform 0.6s ease;
+    margin-left: 84;
+    opacity: 0;
+    color: azure;
+}
+#hj{
+    transition: transform 0.6s ease;
+    margin-left: -100px;
+    opacity: 0;
+}
+#Kaguya{
+    width: 130%;
+    margin-left: 245px;
+}
+#otsutsuki{
+    width: 80%;
+    margin-top: 318px;
+    margin-left: -220px;
+    right: 221px;
+}
+#kG{
+    margin-left: 245px
+}
+#ok1,#ok2,#ok3,#ok4,#ok5{
+    display: none
+}
+#ot1,#ot2,#ot3,#ot4,#ot5{
+    display: none
+}
+#og1,#og2,#og3,#og4,#og5{
+    display: none
+}
+#social {
+    margin: 20px 10px;
+    text-align: center;
+  }
+  
+  .smGlobalBtn { /* global button class */
+      display: inline-block;
+      position: relative;
+      cursor: pointer;
+      width: 50px;
+      height: 50px;
+      border:2px solid #ddd; /* add border to the buttons */
+      box-shadow: 0 3px 3px #999;
+      padding: 0px;
+      text-decoration: none;
+      text-align: center;
+      color: #fff;
+      font-size: 25px;
+      font-weight: normal;
+      line-height: 2em;
+      border-radius: 27px;
+      -moz-border-radius:27px;
+      -webkit-border-radius:27px;
+  }
+  
+  /* facebook button class*/
+  .facebookBtn{
+      background: #4060A5;
+  }
+  
+  .facebookBtn:before{ /* use :before to add the relevant icons */
+      font-family: "FontAwesome";
+      content: "\f09a"; /* add facebook icon */
+  }
+  
+  .facebookBtn:hover{
+      color: #4060A5;
+      background: #fff;
+      border-color: #4060A5; /* change the border color on mouse hover */
+  }
+  
+  /* twitter button class*/
+  .twitterBtn{
+      background: #00ABE3;
+  }
+  
+  .twitterBtn:before{
+        font-family: "FontAwesome";
+        content: "\f099"; /* add twitter icon */
+        
+  }
+  
+  .twitterBtn:hover{
+        color: #00ABE3;
+        background: #fff;
+        border-color: #00ABE3;
+  }
+  
+  .pinterestBtn{
+      background: #cb2027;
+  }
+  
+  .pinterestBtn:before{
+        font-family: "FontAwesome";
+        content: "\f0d2"; /* add pinterest icon */
+  }
+  
+  .pinterestBtn:hover{
+        color: #cb2027;
+        background: #fff;
+        border-color: #cb2027;
+  }
+  .googleplusBtn{
+      background: #e64522;
+  }
+  
+  .googleplusBtn:before{
+        font-family: "FontAwesome";
+        content: "\f0d5"; /* add googleplus icon */
+  }
+  
+  .googleplusBtn:hover{
+        color: #e64522;
+        background: #fff;
+        border-color: #e64522;
+  }
+
+
+
+
+
+
